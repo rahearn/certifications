@@ -6,6 +6,7 @@ metadata:
     - Shawn Wells (shawn@redhat.com)
     - Mark Shoger (mshoger@redhat.com)
 certifications:
+  - ./dfia-2_0.yaml
   - ./dhs-4300a.yaml
   - ./icd-503-low.yaml
   - ./icd-503-moderate.yaml
